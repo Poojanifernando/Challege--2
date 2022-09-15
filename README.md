@@ -16,11 +16,13 @@ You will also see any lint errors in the console.
 
 #  I have use typescript, react and css for styling 
 
+
 #  If you want to run the app first install the packages using "npm install"
-#  Then open a terminal and go to the Frontend folder and run the app using "npm start"
+#  Then open a terminal and go to the relevant directory and run the app using "npm start"
 #  The web application will be open in a defult browser in your computer.
 
-#  I have implemented "get fundarising" part and all the designs are done by according to given design template and i Have done small styling changes as well.
+#  I have implemented "get fundarising" part and all the designs are done by according to given design template and i Have done small styling changes as well. 
+# Main file is App.js
 
 # I hope I have done well and Thank You.
 
